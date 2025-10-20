@@ -1,8 +1,16 @@
-# PickPic (微信图片下载器)
+<div align="center">
+   <img src="./PickPic/assets/icon.png" alt="PickPic Logo" width="160" height="160" />
+</div>
 
-通用的浏览器扩展,可从任何网页下载图片和视频,并为微信公众号文章提供增强支持。
+<h1 align="center">PickPic</h1>
 
-**[English Documentation](./README.md)** | \***\*[中文文档](./README.zh-CN.md)**
+<p align="center">通用的浏览器扩展,可从任何网页下载图片和视频,并为微信公众号文章提供增强支持。</p>
+
+<div align="center">
+
+**[English](./README.md)** | \***\*[中文文档](./README.zh-CN.md)**
+
+</div>
 
 ## 支持的平台
 
