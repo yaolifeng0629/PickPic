@@ -1,12 +1,16 @@
-<p align="center">
+<div align="center">
+   <img src="./PickPic/assets/icon.png" alt="PickPic Logo" width="160" height="160" />
+</div>
 
-<h1>PickPic</h1>
+<h1 align="center">PickPic</h1>
 
-<p>A universal browser extension for downloading images and videos from any webpage, with enhanced support for WeChat Official Account articles.</p>
+<p align="center">A universal browser extension for downloading images and videos from any webpage, with enhanced support for WeChat Official Account articles.</p>
+
+<div align="center">
 
 **[中文文档](./README.zh-CN.md)** | **[英文文档](./README.md)**
 
-</p>
+</div>
 
 ## Supported Platforms
 
