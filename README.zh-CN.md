@@ -2,26 +2,27 @@
 
 通用的浏览器扩展,可从任何网页下载图片和视频,并为微信公众号文章提供增强支持。
 
-**[English Documentation](./README.md)** | **[隐私政策](./PRIVACY.md)**
+**[English Documentation](./README.md)** | \***\*[中文文档](./README.zh-CN.md)**
 
 ## 支持的平台
 
--   [x] 微信公众号文章
--   [x] 掘金
--   [x] 知乎
--   [x] 简书
+-   [x] 微信公众号文章(WeChat Official Accounts)
+-   [x] 掘金(Juejin)
+-   [x] 知乎(Zhihu)
+-   [x] InfoQ
+-   [x] 简书(Jianshu)
+-   [x] 阿里云(Aliyun)
+-   [x] 腾讯云(Tencent Cloud)
 -   [x] CSDN
--   [x] 博客园
+-   [x] 博客园(Cnblogs)
 -   [x] 51CTO
--   [x] 新浪微博
--   [x] 豆瓣
--   [x] Bilibili
--   [x] 微博
--   [x] 贴吧
--   [x] 思否
--   [x] 知乎专栏
--   [x] 各类论坛和博客
--   [x] 其他任意网页
+-   [x] 新浪微博(Sina Weibo)
+-   [x] 豆瓣(Douban)
+-   [x] 哔哩哔哩(Bilibili)
+-   [x] 微博(Weibo)
+-   [x] 思否(SegmentFault)
+-   [x] 今日头条(Toutiao)
+-   [x] 其他 Web 网页(Other Web Pages)
 
 ## 功能特性
 
