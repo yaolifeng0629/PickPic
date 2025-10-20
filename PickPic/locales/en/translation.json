@@ -1,0 +1,89 @@
+{
+  "common": {
+    "appName": "PickPic: A universal browser extension for downloading images and videos from any webpage",
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "titleBar": {
+    "refresh": "Refresh",
+    "detail": "Detail",
+    "settings": "Settings",
+    "language": "Language",
+    "noArticle": "No Article"
+  },
+  "imageGrid": {
+    "noImages": "No images found",
+    "loadingImages": "Loading images...",
+    "selectAll": "Select All"
+  },
+  "footer": {
+    "downloadSelected": "Download Selected",
+    "downloadAll": "Download All Images",
+    "downloading": "Downloading..."
+  },
+  "toast": {
+    "downloadComplete": "Download complete!",
+    "unsupportedPage": "This page is not supported",
+    "downloadError": "Download failed",
+    "noSelection": "Please select images first",
+    "videoPreviewUnsupported": "Video preview is not supported"
+  },
+  "articleDetail": {
+    "title": "Article Details",
+    "articleTitle": "Title",
+    "author": "Author",
+    "description": "Description",
+    "coverImage": "Cover Image",
+    "url": "URL",
+    "close": "Close"
+  },
+  "settings": {
+    "title": "Extension Settings",
+    "about": "About",
+    "privacy": "Privacy",
+    "feedback": "Feedback",
+    "donate": "Donate",
+    "version": "Version",
+    "authorInfo": "Author",
+    "copyright": "Copyright",
+    "description": "Description",
+    "aboutTitle": "About PickPic",
+    "aboutDescription": "A universal browser extension for downloading images and videos from any webpage, with enhanced support for WeChat Official Account articles.",
+    "copyrightText": "© 2025 All rights reserved",
+    "privacyTitle": "Privacy Policy",
+    "privacyIntro": "PickPic respects your privacy and is committed to protecting your personal information.",
+    "dataCollection": "Data Collection",
+    "dataCollectionText": "This extension does NOT collect, store, or transmit any personal data. All operations are performed locally on your device.",
+    "permissions": "Permissions",
+    "permissionsText": "The extension requires the following permissions:",
+    "permissionActiveTab": "To access the current webpage",
+    "permissionStorage": "To save user preferences locally",
+    "permissionDownloads": "To download images from articles",
+    "permissionSidePanel": "To display the side panel UI",
+    "permissionAllUrls": "To extract content from any website",
+    "thirdPartyServices": "Third-Party Services",
+    "thirdPartyText": "This extension does not use any third-party analytics or tracking services.",
+    "lastUpdated": "Last updated: January 2025",
+    "feedbackTitle": "Feedback & Support",
+    "feedbackIntro": "We value your feedback! If you encounter any issues or have suggestions, please let us know.",
+    "githubIssues": "GitHub Issues",
+    "githubText": "Report bugs or request features on our GitHub repository.",
+    "emailContact": "Email Contact",
+    "emailText": "You can also reach us via email.",
+    "feedbackAppreciate": "We appreciate your feedback and will do our best to respond as quickly as possible.",
+    "openIssue": "Open an Issue",
+    "sendEmail": "Send us your feedback or questions via email.",
+    "donateTitle": "Support Development",
+    "donateIntro": "If you find this extension helpful, consider supporting its development.",
+    "donateText": "Your support helps us maintain and improve this extension. Thank you!",
+    "donateMessage": "If you find this extension helpful, consider supporting its development. Your support helps keep this project free and open-source!",
+    "waysToSupport": "Ways to Support",
+    "starGithub": "Star on GitHub",
+    "starGithubText": "Give us a star on GitHub to show your support and help others discover this project.",
+    "reportIssues": "Report Issues",
+    "reportIssuesText": "Help improve the extension by reporting bugs or suggesting new features.",
+    "share": "Share",
+    "shareText": "Share this extension with your friends and colleagues who might find it useful.",
+    "thankYou": "Thank you for using PickPic!"
+  }
+}

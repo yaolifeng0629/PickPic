@@ -1,0 +1,89 @@
+{
+  "common": {
+    "appName": "PickPic: 通用的浏览器扩展，可从任何网页下载图片和视频",
+    "loading": "加载中...",
+    "error": "错误"
+  },
+  "titleBar": {
+    "refresh": "刷新",
+    "detail": "详情",
+    "settings": "设置",
+    "language": "语言",
+    "noArticle": "无文章"
+  },
+  "imageGrid": {
+    "noImages": "暂无图片",
+    "loadingImages": "正在加载图片...",
+    "selectAll": "全选"
+  },
+  "footer": {
+    "downloadSelected": "下载选中图片",
+    "downloadAll": "下载全部图片",
+    "downloading": "正在下载..."
+  },
+  "toast": {
+    "downloadComplete": "下载完成！",
+    "unsupportedPage": "当前页面不支持图片下载",
+    "downloadError": "下载失败",
+    "noSelection": "请先选择图片",
+    "videoPreviewUnsupported": "视频不支持预览"
+  },
+  "articleDetail": {
+    "title": "文章详情",
+    "articleTitle": "标题",
+    "author": "作者",
+    "description": "描述",
+    "coverImage": "封面图",
+    "url": "链接",
+    "close": "关闭"
+  },
+  "settings": {
+    "title": "扩展设置",
+    "about": "关于",
+    "privacy": "隐私",
+    "feedback": "反馈",
+    "donate": "捐赠",
+    "version": "版本",
+    "authorInfo": "作者",
+    "copyright": "版权",
+    "description": "描述",
+    "aboutTitle": "关于微信图片",
+    "aboutDescription": "通用的浏览器扩展，可从任何网页下载图片和视频，并为微信公众号文章提供增强支持。",
+    "copyrightText": "© 2025 版权所有",
+    "privacyTitle": "隐私政策",
+    "privacyIntro": "微信图片尊重您的隐私，并致力于保护您的个人信息。",
+    "dataCollection": "数据收集",
+    "dataCollectionText": "本扩展不会收集、存储或传输任何个人数据。所有操作均在您的设备上本地执行。",
+    "permissions": "权限",
+    "permissionsText": "本扩展需要以下权限：",
+    "permissionActiveTab": "访问当前网页",
+    "permissionStorage": "在本地保存用户偏好设置",
+    "permissionDownloads": "从文章中下载图片",
+    "permissionSidePanel": "显示侧边栏界面",
+    "permissionAllUrls": "从任何网站提取内容",
+    "thirdPartyServices": "第三方服务",
+    "thirdPartyText": "本扩展不使用任何第三方分析或跟踪服务。",
+    "lastUpdated": "最后更新：2025年1月",
+    "feedbackTitle": "反馈与支持",
+    "feedbackIntro": "我们重视您的反馈！如果您遇到任何问题或有建议，请告诉我们。",
+    "githubIssues": "GitHub Issues",
+    "githubText": "在我们的 GitHub 仓库上报告错误或请求功能。",
+    "emailContact": "电子邮件联系",
+    "emailText": "您也可以通过电子邮件联系我们。",
+    "feedbackAppreciate": "我们感谢您的反馈，并将尽最大努力尽快回复。",
+    "openIssue": "提交 Issue",
+    "sendEmail": "通过电子邮件向我们发送反馈或问题。",
+    "donateTitle": "支持开发",
+    "donateIntro": "如果您觉得这个扩展有帮助，请考虑支持其开发。",
+    "donateText": "您的支持帮助我们维护和改进这个扩展。谢谢！",
+    "donateMessage": "如果您觉得这个扩展有帮助，请考虑支持其开发。您的支持帮助我们保持这个项目免费和开源！",
+    "waysToSupport": "支持方式",
+    "starGithub": "在 GitHub 上加星",
+    "starGithubText": "在 GitHub 上给我们加星以表示您的支持，并帮助其他人发现这个项目。",
+    "reportIssues": "报告问题",
+    "reportIssuesText": "通过报告错误或建议新功能来帮助改进扩展。",
+    "share": "分享",
+    "shareText": "与可能觉得有用的朋友和同事分享这个扩展。",
+    "thankYou": "感谢您使用微信图片！"
+  }
+}
