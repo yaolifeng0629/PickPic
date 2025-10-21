@@ -12,9 +12,14 @@
 
 </div>
 
+<div align="center">
+    <img src="./PickPic/assets/screen.gif" alt="PickPic Screen Recording" width="60%" />
+</div>
+
 ## 支持的平台
 
 -   [x] 微信公众号文章(WeChat Official Accounts)
+-   [x] [yaolifeng.com](https://yaolifeng.com)
 -   [x] 掘金(Juejin)
 -   [x] 知乎(Zhihu)
 -   [x] InfoQ

@@ -12,9 +12,14 @@
 
 </div>
 
+<div align="center">
+    <img src="./PickPic/assets/screen.gif" alt="PickPic Screen Recording" width="60%" />
+</div>
+
 ## Supported Platforms
 
 -   [x] 微信公众号文章(WeChat Official Accounts)
+-   [x] [yaolifeng.com](https://yaolifeng.com)
 -   [x] 掘金(Juejin)
 -   [x] 知乎(Zhihu)
 -   [x] InfoQ
@@ -48,6 +53,7 @@
 -   **Bilingual Interface**: English and Chinese (中文/English)
 -   **Side Panel UI**: Easy access without disrupting your browsing
 -   **Responsive Design**: Optimized for different screen sizes
+
 
 ## Installation
 
