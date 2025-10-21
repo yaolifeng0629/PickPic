@@ -18,10 +18,6 @@ export function ImageCard({ image }: ImageCardProps) {
   const [clickTimeout, setClickTimeout] = useState<NodeJS.Timeout | null>(null)
 
   const handleClick = (e: React.MouseEvent) => {
-    if ((e.target as HTMLElement).closest('[data-checkbox]')) {
-      return
-    }
-    
     if (clickTimeout) {
       clearTimeout(clickTimeout)
       setClickTimeout(null)
@@ -67,7 +63,7 @@ export function ImageCard({ image }: ImageCardProps) {
       onClick={handleClick}
       onDoubleClick={handleDoubleClick}
     >
-      <div className="absolute top-2 left-2 z-10" data-checkbox>
+      <div className="absolute top-2 left-2 z-10">
         <Checkbox 
           checked={isSelected}
         />

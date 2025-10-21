@@ -4,7 +4,7 @@
 
 <h1 align="center">PickPic</h1>
 
-<p align="center">A universal browser extension for downloading images and videos from any webpage, with enhanced support for WeChat Official Account articles.</p>
+<p align="center">One-click downloader for images and videos from any webpage, with enhanced support for WeChat Official Account articles.</p>
 
 <div align="center">
 

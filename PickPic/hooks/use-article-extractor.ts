@@ -4,11 +4,12 @@ import { useImageStore } from '~store/image-store'
 
 export function useArticleExtractor() {
   const { setArticle, setLoading, setError, setIsWechatPage } = useArticleStore()
-  const { setImages } = useImageStore()
+  const { setImages, clearSelection } = useImageStore()
 
   const extractContent = async () => {
     setLoading(true)
     setError(null)
+    clearSelection()
 
     try {
       const [tab] = await chrome.tabs.query({ active: true, currentWindow: true })

@@ -1,8 +1,8 @@
 {
   "name": "PickPic",
-  "displayName": "PickPic: A universal browser extension for downloading images and videos from any webpage",
+  "displayName": "PickPic: One-click downloader for images and videos from any webpage",
   "version": "0.0.1",
-  "description": "A universal browser extension for downloading images and videos from any webpage",
+  "description": "One-click downloader for images and videos from any webpage",
   "author": "dev@yaolifeng.com",
   "scripts": {
     "dev": "plasmo dev",
@@ -44,8 +44,8 @@
     "typescript": "5.3.3"
   },
   "manifest": {
-    "name": "PickPic",
-    "description": "A universal browser extension for downloading images and videos from any webpage",
+    "name": "PickPic: One-click downloader for images and videos from any webpage",
+    "description": "One-click downloader for images and videos from any webpage",
     "version": "1.0.0",
     "permissions": [
       "activeTab",
@@ -57,7 +57,7 @@
       "<all_urls>"
     ],
     "action": {
-      "default_title": "PickPic: A universal browser extension for downloading images and videos from any webpage"
+      "default_title": "PickPic: One-click downloader for images and videos from any webpage"
     },
     "side_panel": {
       "default_path": "sidepanel.html"
