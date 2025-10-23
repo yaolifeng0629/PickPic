@@ -60,6 +60,11 @@ The extension requests the following permissions, and here's exactly why:
 - **Usage**: Show the list of images and videos extracted from the current page
 - **Privacy**: UI rendering only; no data collection
 
+### `contextMenus`
+- **Purpose**: Add a quick download option in the right-click menu when you click on images
+- **Usage**: Allows you to right-click on any image and select "Download this image" for instant download without opening the side panel
+- **Privacy**: Only creates a menu item; does not track your interactions or collect any data about what you download
+
 ### `<all_urls>`
 - **Purpose**: Allow the extension to work on any website you choose to use it on
 - **Usage**: Extract media content from any webpage when you activate the extension

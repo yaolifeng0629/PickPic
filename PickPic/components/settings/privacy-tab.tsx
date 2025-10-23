@@ -8,6 +8,7 @@ export function PrivacyTab() {
     { name: 'storage', description: t('settings.permissionStorage') },
     { name: 'downloads', description: t('settings.permissionDownloads') },
     { name: 'sidePanel', description: t('settings.permissionSidePanel') },
+    { name: 'contextMenus', description: t('settings.permissionContextMenus') },
     { name: '<all_urls>', description: t('settings.permissionAllUrls') }
   ]
 

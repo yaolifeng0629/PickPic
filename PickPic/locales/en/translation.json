@@ -60,6 +60,7 @@
     "permissionStorage": "To save user preferences locally",
     "permissionDownloads": "To download images from articles",
     "permissionSidePanel": "To display the side panel UI",
+    "permissionContextMenus": "To add a quick download option in the right-click menu on images",
     "permissionAllUrls": "To extract content from any website",
     "thirdPartyServices": "Third-Party Services",
     "thirdPartyText": "This extension does not use any third-party analytics or tracking services.",

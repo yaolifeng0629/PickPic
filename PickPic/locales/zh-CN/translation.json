@@ -60,6 +60,7 @@
     "permissionStorage": "在本地保存用户偏好设置",
     "permissionDownloads": "从文章中下载图片",
     "permissionSidePanel": "显示侧边栏界面",
+    "permissionContextMenus": "在图片上右键菜单中添加快速下载选项",
     "permissionAllUrls": "从任何网站提取内容",
     "thirdPartyServices": "第三方服务",
     "thirdPartyText": "本扩展不使用任何第三方分析或跟踪服务。",
