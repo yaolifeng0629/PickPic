@@ -85,5 +85,10 @@
     "share": "Share",
     "shareText": "Share this extension with your friends and colleagues who might find it useful.",
     "thankYou": "Thank you for using PickPic!"
+  },
+  "contextMenu": {
+    "downloadImage": "Download this image",
+    "downloadSuccess": "Image downloaded successfully",
+    "downloadError": "Failed to download image"
   }
 }

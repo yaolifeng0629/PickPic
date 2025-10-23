@@ -51,7 +51,8 @@
       "activeTab",
       "storage",
       "downloads",
-      "sidePanel"
+      "sidePanel",
+      "contextMenus"
     ],
     "host_permissions": [
       "<all_urls>"
