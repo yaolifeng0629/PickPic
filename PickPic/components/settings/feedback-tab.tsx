@@ -16,7 +16,7 @@ export function FeedbackTab() {
               {t('settings.githubText')}
             </p>
             <a
-              href="mailto:dev@yaolifeng.com"
+              href="https://github.com/yaolifeng0629/PickPic/issues"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-sm text-primary hover:underline"

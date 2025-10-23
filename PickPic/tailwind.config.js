@@ -3,6 +3,7 @@ module.exports = {
   darkMode: ["class"],
   content: [
     "./components/**/*.{ts,tsx}",
+    "./tabs/**/*.{ts,tsx}",
     "./sidepanel.tsx"
   ],
   theme: {

@@ -28,15 +28,15 @@ function SettingsContent() {
 
   return (
     <div className="min-h-screen bg-white">
-      <div className="max-w-[1400px] mx-auto px-8 py-8">
-        <header className="mb-8 flex items-center gap-3">
+      <div className="max-w-[1400px] mx-auto p-4 box-border">
+        <div className="mb-8 flex items-center gap-3">
           <img
             src="/assets/icon.png"
             alt={t('common.appName')}
             className="w-10 h-10"
           />
-          <h1 className="text-3xl font-semibold text-gray-900">{t('common.appName')}</h1>
-        </header>
+          <h1 className="text-2xl font-semibold text-gray-900">{t('common.appName')}</h1>
+        </div>
 
         <div className="flex gap-8">
           <aside className="w-56 flex-shrink-0">

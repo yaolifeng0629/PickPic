@@ -69,6 +69,16 @@
       "96": "/assets/icon96.png",
       "128": "/assets/icon128.png",
       "256": "/assets/icon256.png"
-    }
+    },
+    "web_accessible_resources": [
+      {
+        "resources": [
+          "assets/*.{png,webp,gif,svg}"
+        ],
+        "matches": [
+          "https://www.plasmo.com/*"
+        ]
+      }
+    ]
   }
 }
