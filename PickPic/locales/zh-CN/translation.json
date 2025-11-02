@@ -87,6 +87,10 @@
     "shareText": "与可能觉得有用的朋友和同事分享这个扩展。",
     "thankYou": "感谢您使用微信图片！"
   },
+  "developerInfo": {
+    "developedBy": "由 Immerse 开发",
+    "viewProjects": "查看更多项目"
+  },
   "contextMenu": {
     "downloadImage": "下载此图片",
     "downloadSuccess": "图片下载成功",

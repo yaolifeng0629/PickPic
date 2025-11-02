@@ -87,6 +87,10 @@
     "shareText": "Share this extension with your friends and colleagues who might find it useful.",
     "thankYou": "Thank you for using PickPic!"
   },
+  "developerInfo": {
+    "developedBy": "Developed by Immerse",
+    "viewProjects": "View More Projects"
+  },
   "contextMenu": {
     "downloadImage": "Download this image",
     "downloadSuccess": "Image downloaded successfully",

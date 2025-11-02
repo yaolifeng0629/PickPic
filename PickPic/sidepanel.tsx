@@ -3,6 +3,7 @@ import { I18nextProvider } from "react-i18next"
 import i18n from "~config/i18n"
 import { Header } from "~components/sidepanel/header"
 import { TitleBar } from "~components/sidepanel/title-bar"
+import { DeveloperInfo } from "~components/sidepanel/developer-info"
 import { ImageGrid } from "~components/sidepanel/image-grid"
 import { FooterActions } from "~components/sidepanel/footer-actions"
 import { ArticleDetailDialog } from "~components/sidepanel/article-detail-dialog"
@@ -30,6 +31,7 @@ function IndexSidePanel() {
             )}
             {/* <Header /> */}
             <TitleBar />
+            <DeveloperInfo />
             <ImageGrid />
             <FooterActions />
             <ArticleDetailDialog />
