@@ -46,7 +46,7 @@
   "manifest": {
     "name": "PickPic: One-click downloader for images and videos from any webpage",
     "description": "One-click downloader for images and videos from any webpage",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "permissions": [
       "activeTab",
       "storage",
