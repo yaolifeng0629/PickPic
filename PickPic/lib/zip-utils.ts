@@ -15,7 +15,7 @@ export async function zipImages(
     const response = await fetch(image.src)
     const blob = await response.blob()
     const extension = getImageExtension(image.src)
-    const fileName = `${sanitizeFileName(image.alt) || 'image'}_${i + 1}.${extension}`
+    const fileName = `${sanitizeFileName(image.alt ?? '') || 'image'}_${i + 1}.${extension}`
 
     zip.file(fileName, blob)
     onProgress?.(i + 1, images.length)
