@@ -1,7 +1,7 @@
 {
   "name": "PickPic",
   "displayName": "PickPic: One-click downloader for images and videos from any webpage",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "One-click downloader for images and videos from any webpage",
   "author": "dev@yaolifeng.com",
   "scripts": {
@@ -59,7 +59,7 @@
   "manifest": {
     "name": "PickPic: One-click downloader for images and videos from any webpage",
     "description": "One-click downloader for images and videos from any webpage",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "permissions": [
       "activeTab",
       "storage",
