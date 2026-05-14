@@ -8,7 +8,7 @@
     <a href="https://chromewebstore.google.com/" target="_blank">
       <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Available-4285F4?logo=googlechrome&logoColor=white" alt="Chrome Web Store" />
     </a>
-    <img src="https://img.shields.io/badge/version-2.0.0-2ea44f" alt="Version" />
+    <img src="https://img.shields.io/badge/version-2.0.1-2ea44f" alt="Version" />
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="License" />
   </div>
 
